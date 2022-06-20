@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/suzuya/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzuya1331)](https://github.com/suzuya/github-readme-stats)
 <!--
 **suzuya1331/suzuya1331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
